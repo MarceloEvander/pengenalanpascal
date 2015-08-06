@@ -77,9 +77,9 @@ begin
      gotoxy(20,2);writeln('*********************************************');
      gotoxy(20,3);writeln('*                                           *');
      gotoxy(20,4);writeln('*                                           *');
-     gotoxy(20,5);writeln('*    TRIVIANA DJELA    :       682013101    *');
-     gotoxy(20,6);writeln('*    WIDYA S HARYANI   :       682013106    *');
-     gotoxy(20,7);writeln('*    DIMAS             :       682011111    *');
+     gotoxy(20,5);writeln('*                                           *');
+     gotoxy(20,6);writeln('*             MARCELO EVANDER               *');
+     gotoxy(20,7);writeln('*                                           *');
      gotoxy(20,8);writeln('*                                           *');
      gotoxy(20,9);writeln('*                                           *');
      gotoxy(20,10);writeln('*********************************************');
